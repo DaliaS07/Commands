@@ -1,0 +1,6 @@
+# To run local host from Guest Machine to Host Machine
+
+Run Django Development server 0.0.0.0:8000
+Check the ip address of the guest machine -> ipconfig for Windows ; ifconfig for Linux
+Go to host machine browser and enter ip address of Guest machine:8000
+
